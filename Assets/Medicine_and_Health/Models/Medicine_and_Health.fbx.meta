@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 26b2609d0dc26474a82cb5ece440a559
+timeCreated: 1493662796
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BioHazard_container
+    100002: BioHazard_container_cap
+    100004: Biological_seeding_dishes
+    100006: Blade
+    100008: Body
+    100010: joint2
+    100012: joint3
+    100014: joint4
+    100016: joint5
+    100018: joint6
+    100020: joint7
+    100022: joint8
+    100024: Label
+    100026: Label 1
+    100028: Label 2
+    100030: Label1
+    100032: Label1 1
+    100034: Label1 2
+    100036: Label2
+    100038: Label2 1
+    100040: Label2 2
+    100042: Main
+    100044: //RootNode
+    100046: Medicines_jar
+    100048: Medicines_jar1
+    100050: Medicines_jar2
+    100052: Medicines_jar_1
+    100054: Medicines_jar_1 1
+    100056: Medicines_jar_1 2
+    100058: Microscope
+    100060: Part01
+    100062: Part02
+    100064: Patch
+    100066: pCube17
+    100068: pCube18
+    100070: pCube18_1
+    100072: pCube19
+    100074: pCube22
+    100076: pCube24
+    100078: pCube26
+    100080: pCube41
+    100082: pCube42
+    100084: pCylinder11
+    100086: pCylinder13
+    100088: pCylinder17
+    100090: pCylinder18
+    100092: pCylinder19
+    100094: pCylinder23
+    100096: pCylinder24
+    100098: pCylinder25
+    100100: pCylinder27
+    100102: pCylinder28
+    100104: pCylinder3
+    100106: pCylinder5
+    100108: pCylinder7
+    100110: pCylinder8
+    100112: pCylinder9
+    100114: Pill
+    100116: Piston
+    100118: pPipe1
+    100120: Scalpel
+    100122: Scissors
+    100124: Spoon
+    100126: Stand
+    100128: Stethoscope
+    100130: Stethoscope_group
+    100132: Stethoscope_Joints
+    100134: Syringe
+    100136: Thermometer
+    100138: Thermometer_digi
+    100140: Vial1
+    100142: Vial2
+    100144: Vial3
+    100146: Vial4
+    100148: Vial5
+    100150: Vial_label1
+    100152: Vial_label2
+    100154: Vial_label3
+    100156: Vial_label4
+    100158: Vial_label5
+    100160: Vials
+    100162: Glaas_02
+    100164: joint1
+    400000: BioHazard_container
+    400002: BioHazard_container_cap
+    400004: Biological_seeding_dishes
+    400006: Blade
+    400008: Body
+    400010: joint2
+    400012: joint3
+    400014: joint4
+    400016: joint5
+    400018: joint6
+    400020: joint7
+    400022: joint8
+    400024: Label
+    400026: Label 1
+    400028: Label 2
+    400030: Label1
+    400032: Label1 1
+    400034: Label1 2
+    400036: Label2
+    400038: Label2 1
+    400040: Label2 2
+    400042: Main
+    400044: //RootNode
+    400046: Medicines_jar
+    400048: Medicines_jar1
+    400050: Medicines_jar2
+    400052: Medicines_jar_1
+    400054: Medicines_jar_1 1
+    400056: Medicines_jar_1 2
+    400058: Microscope
+    400060: Part01
+    400062: Part02
+    400064: Patch
+    400066: pCube17
+    400068: pCube18
+    400070: pCube18_1
+    400072: pCube19
+    400074: pCube22
+    400076: pCube24
+    400078: pCube26
+    400080: pCube41
+    400082: pCube42
+    400084: pCylinder11
+    400086: pCylinder13
+    400088: pCylinder17
+    400090: pCylinder18
+    400092: pCylinder19
+    400094: pCylinder23
+    400096: pCylinder24
+    400098: pCylinder25
+    400100: pCylinder27
+    400102: pCylinder28
+    400104: pCylinder3
+    400106: pCylinder5
+    400108: pCylinder7
+    400110: pCylinder8
+    400112: pCylinder9
+    400114: Pill
+    400116: Piston
+    400118: pPipe1
+    400120: Scalpel
+    400122: Scissors
+    400124: Spoon
+    400126: Stand
+    400128: Stethoscope
+    400130: Stethoscope_group
+    400132: Stethoscope_Joints
+    400134: Syringe
+    400136: Thermometer
+    400138: Thermometer_digi
+    400140: Vial1
+    400142: Vial2
+    400144: Vial3
+    400146: Vial4
+    400148: Vial5
+    400150: Vial_label1
+    400152: Vial_label2
+    400154: Vial_label3
+    400156: Vial_label4
+    400158: Vial_label5
+    400160: Vials
+    400162: Glaas_02
+    400164: joint1
+    2300000: BioHazard_container
+    2300002: BioHazard_container_cap
+    2300004: Blade
+    2300006: Body
+    2300008: Label
+    2300010: Label 1
+    2300012: Label 2
+    2300014: Label1
+    2300016: Label1 1
+    2300018: Label1 2
+    2300020: Label2
+    2300022: Label2 1
+    2300024: Label2 2
+    2300026: Main
+    2300028: Medicines_jar
+    2300030: Medicines_jar1
+    2300032: Medicines_jar2
+    2300034: Medicines_jar_1
+    2300036: Medicines_jar_1 1
+    2300038: Medicines_jar_1 2
+    2300040: Part01
+    2300042: Part02
+    2300044: Patch
+    2300046: pCube17
+    2300048: pCube18
+    2300050: pCube18_1
+    2300052: pCube19
+    2300054: pCube22
+    2300056: pCube24
+    2300058: pCube41
+    2300060: pCube42
+    2300062: pCylinder11
+    2300064: pCylinder13
+    2300066: pCylinder23
+    2300068: pCylinder24
+    2300070: pCylinder27
+    2300072: pCylinder28
+    2300074: pCylinder3
+    2300076: pCylinder5
+    2300078: pCylinder7
+    2300080: pCylinder8
+    2300082: pCylinder9
+    2300084: Pill
+    2300086: Piston
+    2300088: pPipe1
+    2300090: Spoon
+    2300092: Stand
+    2300094: Thermometer
+    2300096: Thermometer_digi
+    2300098: Vial1
+    2300100: Vial2
+    2300102: Vial3
+    2300104: Vial4
+    2300106: Vial5
+    2300108: Vial_label1
+    2300110: Vial_label2
+    2300112: Vial_label3
+    2300114: Vial_label4
+    2300116: Vial_label5
+    2300118: Glaas_02
+    3300000: BioHazard_container
+    3300002: BioHazard_container_cap
+    3300004: Blade
+    3300006: Body
+    3300008: Label
+    3300010: Label 1
+    3300012: Label 2
+    3300014: Label1
+    3300016: Label1 1
+    3300018: Label1 2
+    3300020: Label2
+    3300022: Label2 1
+    3300024: Label2 2
+    3300026: Main
+    3300028: Medicines_jar
+    3300030: Medicines_jar1
+    3300032: Medicines_jar2
+    3300034: Medicines_jar_1
+    3300036: Medicines_jar_1 1
+    3300038: Medicines_jar_1 2
+    3300040: Part01
+    3300042: Part02
+    3300044: Patch
+    3300046: pCube17
+    3300048: pCube18
+    3300050: pCube18_1
+    3300052: pCube19
+    3300054: pCube22
+    3300056: pCube24
+    3300058: pCube41
+    3300060: pCube42
+    3300062: pCylinder11
+    3300064: pCylinder13
+    3300066: pCylinder23
+    3300068: pCylinder24
+    3300070: pCylinder27
+    3300072: pCylinder28
+    3300074: pCylinder3
+    3300076: pCylinder5
+    3300078: pCylinder7
+    3300080: pCylinder8
+    3300082: pCylinder9
+    3300084: Pill
+    3300086: Piston
+    3300088: pPipe1
+    3300090: Spoon
+    3300092: Stand
+    3300094: Thermometer
+    3300096: Thermometer_digi
+    3300098: Vial1
+    3300100: Vial2
+    3300102: Vial3
+    3300104: Vial4
+    3300106: Vial5
+    3300108: Vial_label1
+    3300110: Vial_label2
+    3300112: Vial_label3
+    3300114: Vial_label4
+    3300116: Vial_label5
+    3300118: Glaas_02
+    4300000: pCylinder28
+    4300002: pCube18
+    4300004: pCylinder27
+    4300006: pCube17
+    4300008: pCylinder5
+    4300010: pCylinder3
+    4300012: pCylinder7
+    4300014: pCube18_1
+    4300016: pCylinder11
+    4300018: pCylinder8
+    4300020: pPipe1
+    4300022: pCylinder9
+    4300024: pCube19
+    4300026: pCylinder13
+    4300028: pCube24
+    4300030: pCube42
+    4300032: pCube22
+    4300034: pCube41
+    4300036: Main
+    4300038: Piston
+    4300040: Medicines_jar
+    4300042: Label
+    4300044: Medicines_jar_1
+    4300046: Label1
+    4300048: Label2
+    4300050: Medicines_jar1
+    4300052: Label
+    4300054: Medicines_jar_1
+    4300056: Label1
+    4300058: Label2
+    4300060: Medicines_jar2
+    4300062: Label
+    4300064: Medicines_jar_1
+    4300066: Label1
+    4300068: Label2
+    4300070: Vial1
+    4300072: Vial_label3
+    4300074: Vial2
+    4300076: Vial_label2
+    4300078: Vial3
+    4300080: Vial_label1
+    4300082: Vial4
+    4300084: Vial_label4
+    4300086: Vial5
+    4300088: Vial_label5
+    4300090: Patch
+    4300092: Stand
+    4300094: pCylinder24
+    4300096: pCylinder23
+    4300098: Thermometer_digi
+    4300100: Spoon
+    4300102: BioHazard_container
+    4300104: BioHazard_container_cap
+    4300106: pCylinder18
+    4300108: pCube26
+    4300110: pCylinder17
+    4300112: pCylinder19
+    4300114: pCylinder25
+    4300116: Part01
+    4300118: Part02
+    4300120: Pill
+    4300122: Thermometer
+    4300124: Body
+    4300126: Blade
+    4300128: Glaas_02
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube26
+    13700002: pCylinder17
+    13700004: pCylinder18
+    13700006: pCylinder19
+    13700008: pCylinder25
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
