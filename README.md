@@ -5,7 +5,7 @@ The patient safety “Room of Horror” is an interactive VR simulation that aim
 * Unity 2019
 * [Mixed Reality Toolkit (MRTK v2)](https://github.com/microsoft/MixedRealityToolkit-Unity)
 * Lenovo G0A20001WW Explorer Mixed Reality Headset
-## Instrutions
+## Instructions
 ![alt text](https://github.com/karima931212/VR-Medical-Training-room-of-horror/blob/master/Screenshot/AAMC-CONTENT.001.jpeg?raw=true)
 ![alt text](https://github.com/karima931212/VR-Medical-Training-room-of-horror/blob/master/Screenshot/AAMC-CONTENT.003.jpeg?raw=true)
 ![alt text](https://github.com/karima931212/VR-Medical-Training-room-of-horror/blob/master/Screenshot/AAMC-CONTENT.004.jpeg?raw=true)
