@@ -9,8 +9,8 @@ The patient safety “Room of Horror” is an interactive VR simulation that aim
 ![alt text](https://github.com/karima931212/VR-Medical-Training-room-of-horror/blob/master/Screenshot/AAMC-CONTENT.001.jpeg?raw=true)
 ![alt text](https://github.com/karima931212/VR-Medical-Training-room-of-horror/blob/master/Screenshot/AAMC-CONTENT.003.jpeg?raw=true)
 ![alt text](https://github.com/karima931212/VR-Medical-Training-room-of-horror/blob/master/Screenshot/AAMC-CONTENT.004.jpeg?raw=true)
-[alt text](https://github.com/karima931212/VR-Medical-Training-room-of-horror/blob/master/Screenshot/AAMC-CONTENT.008.jpeg?raw=true)
-[alt text](https://github.com/karima931212/VR-Medical-Training-room-of-horror/blob/master/Screenshot/AAMC-CONTENT.010.jpeg?raw=true)
+![alt text](https://github.com/karima931212/VR-Medical-Training-room-of-horror/blob/master/Screenshot/AAMC-CONTENT.008.jpeg?raw=true)
+![alt text](https://github.com/karima931212/VR-Medical-Training-room-of-horror/blob/master/Screenshot/AAMC-CONTENT.010.jpeg?raw=true)
 ## Credits
 * Scenario Writer: Melissa Fisher
 * Unity Developer: Jiayi Xu
